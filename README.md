@@ -1,5 +1,5 @@
 # 🚪 Welcome to my Profile!
-🎈 I'm some idiot that posts smth some time <br><br>📫 Contact: vowki21 (discord)<br>
+🎈 I'm some idiot that posts smth sometimes <br><br>📫 Contact: vowki21 (discord)<br>
 ![](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
