@@ -2,7 +2,4 @@
 🎈 I work sometimes (mostly doesn't work but who cares) <br><br>📫 Contact: wciazjestemchory (discord)<br>
 ![](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-[![]![](https://komarev.com/ghpvc/?vowki21)](https://visitcount.itsvg.in)
-
- 
+![](https://komarev.com/ghpvc/?vowki21)
